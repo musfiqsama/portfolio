@@ -3,7 +3,7 @@
 A modern developer portfolio showcasing full-stack projects, system-based applications, and real-world development experience.
 
 🌐 **Live Site:**  
-https://musfiqsama.netlify.app/
+https://musfiqsama.me/
 
 ---
 
